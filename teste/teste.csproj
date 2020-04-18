@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="hebert.cs" />
+=======
+    <Compile Include="Breno.cs" />
+>>>>>>> 45c9ff5040286dd0c5e3d8f3a4163bcacba8671e
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
