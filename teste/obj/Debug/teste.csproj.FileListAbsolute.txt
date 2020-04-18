@@ -1,0 +1,6 @@
+c:\users\administrador\documents\visual studio 2015\Projects\teste\teste\bin\Debug\teste.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\teste\teste\bin\Debug\teste.exe
+c:\users\administrador\documents\visual studio 2015\Projects\teste\teste\bin\Debug\teste.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\teste\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\teste\teste\obj\Debug\teste.exe
+c:\users\administrador\documents\visual studio 2015\Projects\teste\teste\obj\Debug\teste.pdb
